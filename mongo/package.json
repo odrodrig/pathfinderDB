@@ -1,0 +1,23 @@
+{
+  "name": "pfsrd_database",
+  "version": "1.0.0",
+  "description": "A database for pathfinder items",
+  "main": "app.js",
+  "dependencies": {
+    "mongoose": "^5.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odrodrig/pathfinderDB.git"
+  },
+  "author": "Oliver Rodriguez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/odrodrig/pathfinderDB/issues"
+  },
+  "homepage": "https://github.com/odrodrig/pathfinderDB#readme"
+}
